@@ -1,0 +1,15 @@
+streamlit
+numpy
+pandas
+opencv-python
+tensorflow
+keras
+collection
+pymongo
+dnspython
+bcrypt
+python-dotenv
+Flask==2.3.2         # or the TF version that matches your model
+mtcnn
+google-api-python-client
+Pillow
